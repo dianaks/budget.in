@@ -1,0 +1,175 @@
+﻿.imgControl1{
+    position: relative;
+    z-index: 1;
+}
+
+.imgControl2c{
+    position: absolute;
+    z-index: 2;
+    width: 20%;
+    height: 15%;
+    margin-top: -45%; 
+    margin-left: 10%;
+}
+
+.imgControl3c{
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 8%;
+    margin-top: -15%; 
+    margin-left: 25%;
+}
+
+.imgControl4c{
+    position: absolute;
+    z-index: 2;
+    width: 23%;
+    height: 17%;
+    margin-top: -48%; 
+    margin-left: 65%;
+}
+
+.imgControl5c{
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 8%;
+    margin-top: -25%; 
+    margin-left: 58%;
+}
+
+.imgControl2m{
+    position: absolute;
+    z-index: 2;
+    width: 70%;
+    height: 70%;
+    margin-top: -34.6%; 
+    margin-left: 0%;
+}
+
+.imgControl3m{
+    position: absolute;
+    z-index: 2;
+    width: 50%;
+    height: 50%;
+    margin-top: -23.26%; 
+    margin-left: 50%;
+}
+
+.imgControl2t{
+    position: absolute;
+    z-index: 2;
+    width: 92%;
+    height: 15%;
+    margin-top: -3.6%; 
+    margin-left: 0%;
+}
+
+.imgControl3t{
+    position: absolute;
+    z-index: 4;
+    width: 92%;
+    height: 20%;
+    margin-top: -6.2%; 
+    margin-left: 8%;
+}
+
+.imgControl4t{
+    position: absolute;
+    z-index: 3;
+    width: 91%;
+    height: 10%;
+    margin-top: -0.7%; 
+    margin-left: 4%;
+}
+
+.imgControl1num{
+    position: absolute;
+    z-index: 3;
+    width: 21%;
+    height: 31%;
+    margin-top: -45.7%; 
+    margin-left: 70%;
+}
+.imgControl2num{
+    position: absolute;
+    z-index: 3;
+    width: 21%;
+    height: 26%;
+    margin-top: -25.7%; 
+    margin-left: 70%;
+}
+
+.imgControl3num{
+    position: absolute;
+    z-index: 3;
+    width: 21%;
+    height: 26%;
+    margin-top: -66.7%; 
+    margin-left: 70%;
+}
+
+
+.fontControlb1{
+    position: absolute;
+    z-index: 3;
+    color: white;
+    font-family: Roboto;
+    margin-top: -55%; 
+    margin-left: 64%;
+}
+
+.fontControlb2{
+    position: absolute;
+    z-index: 3;
+    color: white;
+    font-family: Roboto;
+    margin-top: -24.7%; 
+    margin-left: 64%;
+}
+
+.fontControlb3{
+    position: absolute;
+    z-index: 3;
+    color: white;
+    font-family: Roboto;
+    margin-top: -64%; 
+    margin-left: 64%;
+}
+
+.fontControlb4{
+    position: absolute;
+    z-index: 3;
+    color: white;
+    font-family: Roboto;
+    margin-top: -49%; 
+    margin-left: 64%;
+}
+
+.phar{
+    width: 30%;
+    float: left;
+	margin-right: 5%;
+}
+
+.text{
+    margin: 0;
+	padding: 0;
+}
+
+.textp{
+    font-size: 2vw;
+    margin: 0 0 1vw 0;
+    text-align: justify;
+}
+
+.heading{
+    font-size: 4vw;
+    padding-bottom: 10%;
+}
+
+
+
+
+
